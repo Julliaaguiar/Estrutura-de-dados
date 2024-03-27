@@ -3,6 +3,7 @@
 
 
 int principal (int argc, char* argv[]){
+int main (int argc, char* argv[]){
 
     int n = argc - 1;
     int nunemro = 0;
