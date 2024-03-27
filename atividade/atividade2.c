@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 
-int principal (int argc, char* argv[]){
 int main (int argc, char* argv[]){
 
     int n = argc - 1;
