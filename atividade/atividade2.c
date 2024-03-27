@@ -15,13 +15,13 @@ int principal (int argc, char* argv[]){
     }
      }
         
-    if (resultado == 0 )
+    if (resultado == 0 ){
         printf(" verdadeiro %d /n ",numero);
+    else 
+    }
     else 
       printf(" false %d /n ",numero)
 
-
-   
 
     exit(0);
 }
